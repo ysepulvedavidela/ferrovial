@@ -148,9 +148,6 @@
 }
 /*Tablet o inferior*/
 @media (max-width: 1024px) {
-    .logo {
-        display: none;
-    }
     .powerbi {
         display: none;
     }
@@ -166,9 +163,6 @@
 }
 /*Maximo Telefonos*/
 @media (max-width: 550px) {
-    .logo {
-        display: none;
-    }
     .powerbi {
         display: none;
     }
