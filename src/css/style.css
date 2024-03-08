@@ -140,7 +140,7 @@
     .alert-main {
         display: none;
     }
-    .powerbi {
+    iframe, .powerbi {
         width: 68vw;
         height: 75vh;
         padding-top: 0.1em;
