@@ -26,7 +26,7 @@
 
 .btn {
     color: blue;
-    width: 3vw;
+    width: 7vw;
     height: 5vh;
 }
 
@@ -141,6 +141,8 @@
         display: none;
     }
     iframe, .powerbi {
+        width: 800;
+        height: 440;
         width: 68vw;
         height: 75vh;
         padding-top: 0.1em;
